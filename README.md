@@ -1,5 +1,11 @@
 # angular-ext-edge-bug
 
+Issues:
+
+- https://github.com/angular/angular/issues/23340
+
+Repro:
+
 ```
 git clone https://github.com/kspearrin/angular-ext-edge-bug.git
 cd angular-ext-edge-bug
