@@ -3,6 +3,7 @@
 Issues:
 
 - https://github.com/angular/angular/issues/23340
+- https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16906063/
 
 Repro:
 
